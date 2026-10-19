@@ -27,13 +27,17 @@ This project demonstrates basic Android Activity navigation, including opening a
 
 The main screen displays a welcome message and a button to open the second screen.
 
-![PizzaMax Main Screen](screenshots/pizzaMax01.png)
+<p align="center">
+  <img src="screenshots/pizzaMax01.png" width="250" alt="PizzaMax Main Screen">
+</p>
 
 ### 2. Second Activity
 
 The second screen displays a message and a button to return to the main screen.
 
-![PizzaMax Second Screen](screenshots/pizzaMax02.png)
+<p align="center">
+  <img src="screenshots/pizzaMax02.png" width="250" alt="PizzaMax Second Screen">
+</p>
 
 ## 📂 Project Structure
 
